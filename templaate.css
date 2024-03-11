@@ -1,0 +1,75 @@
+.container{
+       
+    width: 100%;
+    position: relative;
+}
+.bg_image{
+    height: 900px;
+    width: 100%;
+    
+}
+.top_bar{
+    height: 80px;
+    width: 100%;
+    position: absolute;
+    top: 1px;
+    background: rgba(0, 0, 0, 0.5);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    a{
+        text-decoration: none;
+        font-size: 25px;
+        color: black;
+        margin-right: 72px;
+    }
+    }
+    .Logo{
+        position: absolute;
+        top: 1px;
+    }
+    .signin{
+        font-size: 25px;
+font-weight: 700px;
+background-color: #f5d8d3;
+padding: 10px;
+border-radius: 20px;
+color: black;
+text-decoration: none;
+position: absolute;
+top: 15px;
+right: 174px;
+    }
+    .signup{
+        text-decoration: none;
+        font-size: 24px;
+font-weight: 700px;
+background-color:#f5d8d3;
+padding: 10px;
+border-radius: 20px;
+color: black;
+position: absolute;
+top: 15px;
+right: 58px;
+    }
+    .main{
+        
+        height: 477px;
+        width: 418px ;
+        
+        border: 2px red solid;
+    }
+    .main2{
+    height: 173px;
+    width: 167px;
+    border: 2px solid black;
+   
+    }
+    .main3{
+        height: 297px;
+        width: 307px ;
+    
+      border: 2px solid green;
+    }
+  
